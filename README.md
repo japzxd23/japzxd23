@@ -1,7 +1,7 @@
 
 Hi i am **John Paul Gaba** (Software Developer and Security Researcher)
 
-I am in this field since 12 years old.
+I am in this field since 2008.
 
 **Skills:**
 Initiative,
