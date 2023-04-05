@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japzxd23&label=Profile%20views&color=0e75b6&style=flat" alt="japzxd23" /> </p>
 
-- 🔭 I’m currently working on [DvCode Technologies Inc.](https://dvcode.tech)
-
 - 🌱 I’m currently learning **React, React Native, Adonis JS**
-
-- 👯 I’m looking to collaborate on **TryKo**
 
 - 📫 How to reach me **japzxd23@gmail.com**
 
