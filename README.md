@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Adonis JS**
 
-- 📫 How to reach me **japzxd23@gmail.com**
+- 📫 How to reach me ?
 
 - ⚡ Fun fact **Innovative**
 
