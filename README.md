@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Paul Gaba</h1>
+<h1 align="center">Hi 👋, I'm Japz</h1>
 <h3 align="center">A passionate software and web developer from Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japzxd23&label=Profile%20views&color=0e75b6&style=flat" alt="japzxd23" /> </p>
