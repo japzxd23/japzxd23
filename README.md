@@ -5,11 +5,7 @@
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japzxd23&label=Profile%20views&color=0e75b6&style=flat" alt="japzxd23" /> </p>
 
-- 🌱 I’m currently learning **React, React Native, Adonis JS**
-
-- 📫 How to reach me ?
-
-- ⚡ Fun fact **Innovative**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japzxd23&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="japzxd23's GitHub Stats" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +14,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=japzxd23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="japzxd23's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japzxd23&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="japzxd23's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=japzxd23&theme=tokyonight&hide_border=true" alt="japzxd23's GitHub Stats" />
 
 
